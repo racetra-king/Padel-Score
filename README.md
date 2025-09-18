@@ -50,7 +50,7 @@ padelscore/
 
 ⚙️ Setup Instructions
 1. Clone the repo
-git clone https://github.com/your-username/padelscore.git
+git clone https://github.com/racetra-king/Padel-Score)
 cd padelscore
 
 2. Frontend
